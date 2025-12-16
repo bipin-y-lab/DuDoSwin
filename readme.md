@@ -1,5 +1,5 @@
 # DUDO Swin
-![alt text](./misc/image.png)
+![alt text](./misc/image.jpeg)
 
 This repository provides a simple implementation of the DUDO model for dual-domain processing.
 
