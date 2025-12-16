@@ -1,0 +1,21 @@
+torch 
+einops 
+timm 
+torchvision 
+numpy 
+matplotlib 
+h5py 
+pybind11 
+build 
+tifffile 
+tqdm
+scikit-learn
+scikit-image
+pandas
+lpips
+
+# Install torch-radon using below command in terminal
+#git clone https://github.com/AstoundReddy/Torch-radon.git
+#cd Torch-radon
+#python -m build
+#pip install .
